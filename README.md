@@ -28,7 +28,8 @@ You can also find me on🔍:
 
 ## Activities🚀
 Some quick stats on my Github activities:point_down:
-
+<br>
+*Updates every 24 hours*🕔
 
 [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
