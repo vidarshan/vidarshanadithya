@@ -18,7 +18,7 @@ These technologies are my best tools : <br>
 ## What I'm learning📝
 Currently I'm open to machine learning related topics🤖, and have been gaining knowledge about the field📈. 
 
-## Reach me out
+## Reach me out💌
 If you would like me to collaborate🤝🏻 on your awesome software project, you can reach me out from my email:📧vidarshanadithya3@gmail.com
 
 You can also find me on🔍:
@@ -26,7 +26,7 @@ You can also find me on🔍:
  [<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/vidarshan-rathnayake/)
  [<img src="https://img.icons8.com/color/30/000000/stackoverflow.png"/>](https://stackoverflow.com/users/15415996/vidarshan-adithya)
 
-## Activities
+## Activities🚀
 Some quick stats on my Github activities:point_down:
 
 
