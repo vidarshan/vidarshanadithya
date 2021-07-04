@@ -30,7 +30,9 @@ You can also find me on🔍:
 Some quick stats on my Github activities:point_down:
 
 
-[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
