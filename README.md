@@ -13,7 +13,7 @@ I do cool things based on,
 ## Things I use🔧
 These technologies are my best tools : <br>
 <img src="https://img.icons8.com/color/30/000000/typescript.png"/>     <img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>     <img src="https://img.icons8.com/color/30/000000/nodejs.png"/>     <img src="https://img.icons8.com/color/30/000000/angularjs.png"/>     <img src="https://img.icons8.com/color/30/000000/sass.png"/>
-<img src="https://img.icons8.com/color/30/000000/flutter.png"/>    <img src="https://img.icons8.com/color/30/000000/python--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>    <img src="https://img.icons8.com/color/30/000000/redis.png"/>    <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>
+<img src="https://img.icons8.com/color/30/000000/flutter.png"/>    <img src="https://img.icons8.com/color/30/000000/python--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>    <img src="https://img.icons8.com/color/30/000000/redis.png"/>    <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>   <img src="https://img.icons8.com/color/30/000000/css3.png"/>
 
 ## What I'm learning📝
 Currently I'm open to machine learning related topics🤖, and have been gaining knowledge about the field📈. 
