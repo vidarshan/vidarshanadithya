@@ -1,7 +1,7 @@
 # Hello,
 
 I'm Vidarshan Adithya Rathnayake, a passionate software developer👨🏻‍💻️.
-- I'm also a Software Engineering graduate👨🏻‍🎓️, and I'm currently working as a frondend developer.
+- I'm also a Software Engineering graduate👨🏻‍🎓️, and I'm currently working as a frontend developer.
 - While working as a frontend developer, I'm also interested on full stack development as well💝.
 
 ## What I do👨🏻‍💻️
