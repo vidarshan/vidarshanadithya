@@ -9,6 +9,7 @@ I do cool things based on,
 - Responsive web design🌐,
 - APIs and backend related development⚙️,
 - Desktop applications🖥️ and mobile applications development📱.
+- Creating projects with great 3rd party APIs.
 
 ## Things I use🔧
 These technologies are my best tools : <br>
@@ -19,7 +20,7 @@ These technologies are my best tools : <br>
 Currently I'm open to machine learning related topics🤖, and have been gaining knowledge about the field📈. 
 
 ## Reach me out💌
-If you would like me to collaborate🤝🏻 on your awesome software project, you can reach me out from my email:📧vidarshanadithya3@gmail.com
+You can reach me out from my email:📧vidarshanadithya3@gmail.com
 
 You can also find me on🔍:
 <br>
@@ -29,7 +30,7 @@ You can also find me on🔍:
 ## Activities🚀
 Some quick stats on my Github activities:point_down:
 <br>
-*Updates every 24 hours*🕔
+*Updates every 24 hours UTC*🕔
 
 
 [![](https://raw.githubusercontent.com/vidarshanadithya/vidarshanadithya/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
