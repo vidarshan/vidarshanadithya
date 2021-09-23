@@ -8,7 +8,7 @@ I'm Vidarshan Adithya Rathnayake, a passionate software developer👨🏻‍💻
 I do cool things based on,
 - Responsive web design 🌐,
 - APIs and backend related development ⚙️,
-- Desktop applications 🖥️ and mobile applications development 📱.
+- Desktop applications 🖥️  and mobile applications development 📱.
 - Creating projects with great 3rd party APIs ⛏️.
 
 ## Things I use 🔧
