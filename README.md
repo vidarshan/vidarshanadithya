@@ -50,8 +50,6 @@
 
 <h2 align='center'> Reach me out 💌 </h2>
 
-<br>
-
 <h5 align='center'>You can contact me on:
  
  <br>
