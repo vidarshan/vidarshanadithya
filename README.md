@@ -2,9 +2,7 @@
 
 <br>
 
-- I'm Vidarshan Adithya Rathnayake, a passionate Software Developer👨🏻‍💻️.
-- I'm also a Software Engineering graduate 👨🏻‍🎓️, and I'm currently working as a frontend developer. 
-- While working as a frontend developer, I'm also interested on full stack development as well 💝.
+<p align='center'> Vidarshan Adithya Rathnayake, a passionate Software Developer👨🏻‍💻️. I'm also a Software Engineering graduate 👨🏻‍🎓️, and I'm currently working as a frontend developer. While working as a frontend developer, I'm also interested on full stack development as well 💝.</p>
 
 <br>
 
@@ -46,13 +44,13 @@
 
 <br>
 
-- I'm open to machine learning related topics, and have been gaining knowledge about the subject.🤖
-- Also, I'm looking forward to expand my knowledge on the .Net framework.
+<p align='center'>I'm open to machine learning related topics, and have been gaining knowledge about the subject. Also, I'm looking forward to expand my knowledge on the .Net framework. 🤖</p>
 
 <br>
 
 <h2 align='center'> Reach me out 💌 </h2>
 
+<br>
 
 <h5 align='center'>You can contact me on:
  
