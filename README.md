@@ -46,7 +46,8 @@
  
  [<img src="https://img.icons8.com/fluency/38/000000/gmail-new.png"/>](mailto:vidarshanadithya3@gmail.com)
  [<img src="https://img.icons8.com/color/38/000000/linkedin.png"/>](https://www.linkedin.com/in/vidarshan-rathnayake/)
- [<img src="https://img.icons8.com/color/38/000000/stackoverflow.png"/>](https://stackoverflow.com/users/15415996/vidarshan-adithya)</h5>
+ [<img src="https://img.icons8.com/color/38/000000/stackoverflow.png"/>](https://stackoverflow.com/users/15415996/vidarshan-adithya)
+ [<img src="https://img.icons8.com/fluency/38/000000/earth-planet.png"/>](https://vidarshan.dev)</h5>
 
 
 
