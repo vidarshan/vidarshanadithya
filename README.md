@@ -23,9 +23,9 @@
 <p align='center'>These technologies are my best tools: 🚀 </p> 
 
 <p align='center'>
-<img src="https://img.icons8.com/color/30/000000/typescript.png"/>     <img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>     <img src="https://img.icons8.com/color/30/000000/nodejs.png"/>     <img src="https://img.icons8.com/color/30/000000/angularjs.png"/>     <img src="https://img.icons8.com/color/30/000000/sass.png"/>
+<img src="https://img.icons8.com/color/30/000000/typescript.png"/>     <img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>     <img src="https://img.icons8.com/color/30/000000/nodejs.png"/>          <img src="https://img.icons8.com/color/30/000000/sass.png"/>
+<img height='30' width='30' src="https://user-images.githubusercontent.com/48169745/142460958-2caa64f0-c2ca-409f-ac5f-9fb32bdfb184.png"/>
 <img src="https://img.icons8.com/color/30/000000/python--v1.png"/>    <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>    <img src="https://img.icons8.com/color/30/000000/redis.png"/>    <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://img.icons8.com/color/30/000000/c-sharp-logo-2.png"/>   <img src="https://img.icons8.com/color/30/000000/css3.png"/></p>
-
 
 <br>
 
