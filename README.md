@@ -2,7 +2,7 @@
 
 <br>
 
-<p align='center'> Vidarshan Adithya Rathnayake, a passionate Software Developer👨🏻‍💻️. I'm also a Software Engineering graduate 👨🏻‍🎓️, and I'm currently working as a frontend developer. While working as a frontend developer, I'm also interested on full stack development as well 💝.</p>
+<p align='center'>A passionate Software Developer👨🏻‍💻️. I'm also a Software Engineering graduate 👨🏻‍🎓️, and I'm currently working as a frontend developer. While working as a frontend developer, I'm also interested on full stack development as well 💝.</p>
 
 <br>
 
