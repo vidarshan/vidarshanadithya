@@ -9,7 +9,7 @@ I'm a passionate Software Engineer who likes to see things being built one line 
 <h2> What I do 👨🏻‍💻️ </h2>
 
 - 🎛️ Creating backend APIs.
-- 🎨 Designing and implementing UX Designs.
+- 🎨 Designing and implementing User Interfaces.
 - 🌐 Creating industry standard web applications.
 - 🖥️ Creating frontend web applications for provided 3rd party APIs.
  
