@@ -19,6 +19,16 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          name: Succint report
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.pagespeed.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_pagespeed: yes
+  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+  plugin_pagespeed_url: https://lecoq.io
 
           # Options
           user: vidarshanadithya
