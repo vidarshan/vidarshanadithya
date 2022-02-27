@@ -24,7 +24,6 @@ I'm a passionate Software Engineer who likes to see things being built one line 
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147721925-6887d0ec-4448-450c-84dd-1f8b3ba5930f.png"/>
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147721928-0115923a-7868-4d02-bfd6-21c42bde5b2f.png"/>
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147721909-eb01ddac-2de0-4132-a858-8a6b5f20178a.png"/>
- <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147722261-93a52b37-7902-4b10-9aee-8967fb988068.png"/>
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147722245-ad88fa03-358f-4439-9812-506e4be15fba.png"/>
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/147721717-34fd0277-f11c-4c15-b7cd-e833cec0509b.png"/>
  <img height='40' width='40' src="https://user-images.githubusercontent.com/48169745/142460958-2caa64f0-c2ca-409f-ac5f-9fb32bdfb184.png"/>
