@@ -36,7 +36,7 @@ I'm a Software Engineer who likes to see things being built one line of code at 
 <br>
 <br>
  
- <h2> Reach me out 💌 </h2>
+ <h2> Reach to me 💌 </h2>
  <p>
  
  [<img src="https://img.icons8.com/fluency/38/000000/gmail-new.png"/>](mailto:vidarshanadithya3@gmail.com)
