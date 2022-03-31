@@ -8,10 +8,10 @@ I'm a Software Engineer who likes to see things being built one line of code at 
 
 <h2> What I do 👨🏻‍💻️ </h2>
 
-- 🎛️ Creating backend APIs.
-- 🎨 Designing and implementing User Interfaces.
-- 🌐 Creating industry standard web applications.
-- 🖥️ Creating frontend web applications for provided 3rd party APIs.
+- 🎛️ Creating backend APIs
+- 🎨 Designing and implementing User Interfaces
+- 🌐 Creating industry standard web applications
+- 🖥️ Creating frontend web applications for provided 3rd party APIs
  
 <br>
 
