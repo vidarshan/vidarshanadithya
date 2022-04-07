@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a Software Engineer who likes to see things being built one line of code at a time. I'm well organised and prefers to have incremental self-development based on the knowledge gained.
+I'm a Software Engineer who likes to see things being built one line of code at a time. I'm well organised and prefers to have incremental self-development based on the knowledge gained
 
 <br>
 
